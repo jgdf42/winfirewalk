@@ -54,7 +54,8 @@ WinFirewalk - ExampleFolder
 
 If another folder has the same name, WinFirewalk may append a short hash to keep the rule name unique.
 
-Notes and Limitations
+## Notes and Limitations
+
 WinFirewalk only manages rules it creates. It avoids touching unrelated Windows Firewall rules.
 
 Steam .url shortcuts and other launcher/protocol shortcuts do not reveal the actual game install folder, so choose the game folder or .EXE manually in those cases.
