@@ -2,7 +2,7 @@
 
 WinFirewalk is a single-file Windows GUI tool for blocking or unblocking all `.exe` and `.dll` files inside a selected folder and its subfolders using Windows Firewall.
 
-It is designed for situations where you want a quick, reversible way to keep everything inside a folder tree from calling out over the network, especially large game folders with many executables.
+It is designed for situations where you want a quick, reversible way to keep everything inside a folder tree from calling out over the network, especially suspicious software or large folders with many executables.
 
 <img width="2415" height="1833" alt="image" src="https://github.com/user-attachments/assets/d784aad0-15b1-401a-ad0a-71238109b781" />
 
